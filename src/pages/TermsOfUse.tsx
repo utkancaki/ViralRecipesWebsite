@@ -87,6 +87,11 @@ function TermsOfUse() {
                 <p className="text-red-700">The recipes, nutritional values, and content in the App are for informational and entertainment purposes only. They are not intended as medical or dietary advice. Ingredients may cause allergic reactions or other adverse effects depending on individual health conditions.</p>
                 <p className="text-red-700 mt-2">You are solely responsible for checking ingredient labels, verifying nutritional information, and ensuring recipes meet your personal dietary needs and restrictions. We are not responsible for any illness, injury, or adverse outcome that may result from following recipes or consuming foods prepared based on App content.</p>
               </div>
+
+              <div className="bg-blue-50 border-l-4 border-blue-400 p-4 mt-6">
+                <h3 className="text-lg font-semibold text-blue-800 mb-2">Reviews, Testimonials & Engagement Data</h3>
+                <p className="text-blue-700">Any reviews, testimonials, ratings, or statistics displayed in the App (including the number of people who have cooked or interacted with recipes) are provided for illustrative purposes only. These do not represent actual user data or verified activity.</p>
+              </div>
             </div>
 
             <div>

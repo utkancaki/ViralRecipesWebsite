@@ -93,22 +93,27 @@ function PrivacyPolicy() {
             </div>
 
             <div>
-              <h2 className="text-2xl font-bold text-gray-900 mb-4">7. Children's Privacy</h2>
+              <h2 className="text-2xl font-bold text-gray-900 mb-4">7. Reviews, Testimonials & Engagement Data</h2>
+              <p>Any reviews, testimonials, ratings, or statistics shown in the App — including the number of people who have cooked or interacted with recipes — are examples only. These figures are not based on personal data, do not reflect real user activity, and are displayed solely for demonstration and illustrative purposes.</p>
+            </div>
+
+            <div>
+              <h2 className="text-2xl font-bold text-gray-900 mb-4">8. Children's Privacy</h2>
               <p>The App is not directed at children under the age of 13. We do not knowingly collect personal data from children. If we become aware that we have inadvertently received personal data from a child under 13, we will delete it immediately.</p>
             </div>
 
             <div>
-              <h2 className="text-2xl font-bold text-gray-900 mb-4">8. Security</h2>
+              <h2 className="text-2xl font-bold text-gray-900 mb-4">9. Security</h2>
               <p>Since the App does not collect or store personal information, no special measures are required. However, please protect your device with appropriate security settings to safeguard your locally stored information.</p>
             </div>
 
             <div>
-              <h2 className="text-2xl font-bold text-gray-900 mb-4">9. Changes to This Privacy Policy</h2>
+              <h2 className="text-2xl font-bold text-gray-900 mb-4">10. Changes to This Privacy Policy</h2>
               <p>We may update this Privacy Policy from time to time. The latest version will always be available in the App. By continuing to use the App after changes take effect, you agree to the updated Policy.</p>
             </div>
 
             <div>
-              <h2 className="text-2xl font-bold text-gray-900 mb-4">10. Contact Us</h2>
+              <h2 className="text-2xl font-bold text-gray-900 mb-4">11. Contact Us</h2>
               <p>If you have any questions about this Privacy Policy, please contact us at:</p>
               <p className="bg-green-50 p-4 rounded-lg inline-block">
                 📧 <a href="mailto:viralrecipesapp@gmail.com" className="text-green-600 hover:text-green-800 font-medium">viralrecipesapp@gmail.com</a>
